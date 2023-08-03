@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70.89 101.88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #202124;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>header_arrow</title>
+  <g>
+    <g>
+      <path class="cls-1" vector-effect="non-scaling-stroke" d="M71.65,77.29l16,12.13c.49.37,1,.77,1,1.24s-.51,1-1,1.35c-3.28,2.57-12.72,10.67-16,13.23" transform="translate(-19.31 -4.55)"/>
+      <path class="cls-1" vector-effect="non-scaling-stroke" d="M71.18,77.23a203.91,203.91,0,0,0-.58,26" transform="translate(-19.31 -4.55)"/>
+    </g>
+    <path class="cls-1" vector-effect="non-scaling-stroke" d="M62.68,5.84A48,48,0,0,0,42.4,29.35c-1.77,4.46-2.87,9.39-1.77,14.06s4.86,9,9.64,9.48,9.82-3.82,9-8.55C58.68,40.59,55,38.07,51.37,37c-8-2.36-17.22.5-23,6.54S20,58.45,21,66.78A28.35,28.35,0,0,0,29.58,84c9.06,8.41,22.66,9,35,9.18" transform="translate(-19.31 -4.55)"/>
+  </g>
+</svg>
